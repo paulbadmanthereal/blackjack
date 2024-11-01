@@ -2,7 +2,7 @@
 a simple python blackjack game.
 
 ~~i believe this might be simpler than roulette.~~
-card valeus:
+card values:
     'Ace': 11,
     '2': 2,
     '3': 3,
